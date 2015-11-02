@@ -7,3 +7,4 @@ After you have done what you needed to do, type these commands in this order:
 -git commit -m "commit message"
 -git push
  You should see something similar to: master --> master if you have done this right. 
+

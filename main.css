@@ -1,5 +1,44 @@
 h1{
 	color: yellow;
 	background-color: purple;
+	font-family: "Courier New", Monospace;
+	font-size: 69px;
+	border-style: double;
+	border-width: 23px;
+	font-weight:900;
+	
 }
+h2{
+	color: #abfeab;
+	background-color: blue;
+	font-family:"Courier New", Monospace;
+	font-style: italic;
+	font-weight:100;
+	border-style: groove;
+	border-width: 30px;
+	border-color: #ff00ff;
+}
+p{
+	color: #99fe33;
+	font-family: "Courier New", Monospace;
+	font-size: 48px;
+	border-style: dashed;
+
+}
+footer{
+    color: #deed33;
+	background-color: blue;
+	font-family:"Courier New", Monospace;
+	font-style: italic;
+	border-style: double;
+	border-width: 30px;
+	border-color:#fefefe;
+}
+body{
+	background-color:#78feab;
+}
+main{
+	background-color:#00aafe;
+}
+
 

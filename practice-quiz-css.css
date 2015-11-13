@@ -1,0 +1,36 @@
+h1{
+	color: yellow;
+	background-color: green;
+	font-family: "Courier New", Monospace;
+	font-size: 45px;
+	font-weight: 900;
+}
+p{
+	color: purple;
+	font-size: 20px;
+}		
+header{	
+	background-color: yellow;
+	font-family: "Courier New", Monospace;
+	font-weight: 900;
+	font-style: italic;
+}
+main{
+	border-style: dashed;
+	border-color: orange;
+	border-width: 7px;
+}
+h2{
+	color:orange;
+	background-color:blue;
+}
+h3{	
+	color:blue;
+	background-color: orange;
+	border-style: double;
+	border-width:6px;
+}
+footer{
+	color:yellow;
+	background-color:blue;
+}

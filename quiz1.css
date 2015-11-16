@@ -1,0 +1,52 @@
+h1{
+	color: yellow;
+	background-color: green;
+	font-family: "Impact", Charcoal, sans-serif;
+	font-size: 30px;
+	border-bottom-style: dashed;
+	border-width:5px;
+	
+}
+p{
+	color: blue;
+	font-size: 20px;
+	
+}		
+header{	
+	background-color: red;
+	font-family: "Impact", Charcoal, sans-serif;
+	font-size:15px;
+	font-style: italic;
+	font-weight:bold;
+	border-bottom-style:dashed;
+	border-color: yellow;
+	border-width: 13px;
+	
+}
+main{
+	border-left-style: groove;
+	border-width: 10px;
+	border-color: orange;
+	font-family: Arial, sans-serif;
+}
+h2{
+	color:yellow;
+	background-color:purple;
+}
+h3{	
+	color:purple;
+	background-color: yellow;
+	border-top-style: dashed;
+	border-width:3px;
+}
+footer{
+	color:blue;
+	border-left-style:solid;
+	border-left-color: red;
+	border-left-width: 10px;
+	border-top-style: dashed;
+	border-top-color: black;
+	border-top-width: 1px;
+	
+
+}

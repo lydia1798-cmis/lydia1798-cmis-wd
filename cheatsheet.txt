@@ -34,3 +34,10 @@ mkdir - creates new empty folder (same in sftp)
 rmdir - remove folder (delete) (same in sftp)
 cd.. - takes you back out a stepls
 !pwd - present working directory (to know where you are in sftp
+
+Gif urls
+-TACO!!!! - http://31.media.tumblr.com/7013c26f936cff3a6133480e07fba67b/tumblr_mll7ztQZaf1r0y8j6o1_500.gif
+-chihuahua-http://24.media.tumblr.com/22339d34fa9bceb249590f7b3fea05f1/tumblr_n2lcrqx0791r4ur2xo1_500.gif
+_crazy rainbow heart- https://49.media.tumblr.com/bd17e0668bb5fd8c084915891b03746d/tumblr_mnh8ptCAcO1rv7jrto1_250.gif
+cats- http://www.catgifpage.com/gifs/291.gif
+cat in a taco- https://45.media.tumblr.com/247899ad2c1f9de8de2ca3b037a308d3/tumblr_mfu4e95XVb1r4xjo2o1_500.gif

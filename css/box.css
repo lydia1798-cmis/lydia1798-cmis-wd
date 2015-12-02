@@ -2,8 +2,8 @@ h1{
 	border:60px #66ffff;
 	border-style: groove;
 	background-image:url("http://www.catgifpage.com/gifs/291.gif");
-	margin:30px;
-	padding:40px;
+	margin:3px;
+	padding:100px;
 	width:500px;
 	height:20px;
 	color: white;
@@ -13,7 +13,7 @@ h2{
 	border-style:double;
 	background-image:url("https://45.media.tumblr.com/247899ad2c1f9de8de2ca3b037a308d3/tumblr_mfu4e95XVb1r4xjo2o1_500.gif");
 	margin:30px;
-	padding:40px;
+	padding:100px;
 	width:700px;
 	height:17px;
 	color: #ffffb3;
@@ -25,6 +25,35 @@ p{
 	margin:11px;
 	padding:13px;
 	width:650px;
-	height:600px;
+	height:555px;
+	color: white;
+}
+ul{
+	border:23px #b3ffe0;
+	border-style:inset;
+	background-image:url("http://24.media.tumblr.com/22339d34fa9bceb249590f7b3fea05f1/tumblr_n2lcrqx0791r4ur2xo1_500.gif");
+	margin:1px;
+	padding:113px;
+	
+	color: white;
+}
+ul li ul{
+	border:60px #66ffff;
+	border-style: groove;
+	background-image:url("http://i.imgur.com/2Y4oZtj.gif");
+	margin:3px;
+	padding:100px;
+	width:500px;
+	height:20px;
+	color: white;
+}
+nav{
+	border:60px #66ffff;
+	border-style: groove;
+	background-image:url("http://i.imgur.com/mJRa4GD.gif");
+	margin:3px;
+	padding:100px;
+	width:700px;
+	height:700px;
 	color: white;
 }

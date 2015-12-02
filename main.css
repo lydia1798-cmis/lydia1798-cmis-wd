@@ -2,9 +2,9 @@ h1{
 	color: yellow;
 	background-color: purple;
 	font-family: "Courier New", Monospace;
-	font-size: 69px;
+	font-size: 20px;
 	border-style: double;
-	border-width: 23px;
+	border-width: 12px;
 	font-weight:900;
 	
 }
@@ -15,13 +15,13 @@ h2{
 	font-style: italic;
 	font-weight:100;
 	border-style: groove;
-	border-width: 30px;
+	border-width: 40px;
 	border-color: #ff00ff;
 }
 p{
 	color: #99fe33;
 	font-family: "Courier New", Monospace;
-	font-size: 48px;
+	font-size: 20px;
 	border-style: dashed;
 
 }

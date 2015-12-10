@@ -1,0 +1,70 @@
+header{
+	background-color:red;
+	width:500px;
+	border-right:70px solid yellow;
+	padding:30px;
+}
+h1{
+	border:solid yellow 1px;	
+}
+h1 + p{
+	padding:25px;
+	color:white;
+}
+nav{
+	margin-left:150px;
+	border:black solid 3px;
+}
+main{
+	padding-left:150px;
+	background-color:gray;
+}
+main > p{
+	background-color: white;
+}
+main > p + p{
+	background-color:black;
+	color:white;
+}
+table thead tr th{
+	background-color:yellow;
+	border-bottom:green solid 7px;
+}
+table tbody tr th + th + th{
+	background-color:yellow;
+	border-bottom:green solid 7px;
+}
+table tbody tr th + th{
+	background-color:yellow;
+	border-bottom:green solid 7px;
+}
+table tbody tr th{
+	background-color:yellow;
+	border-bottom:green solid 7px;
+}
+table tbody tr + tr th{
+	background-color:yellow;
+	color:red;
+	border:none;
+}
+table tbody tr + tr td{
+	background-color:white;
+	color:black;
+}
+table tfoot th{
+	background-color:red;
+	color:yellow;
+}
+table tfoot td{
+	background-color:white;
+	color:black;
+}
+footer{ 
+	padding-top:10px;
+	padding-bottom:10px;
+	border:blue dashed 10px;
+}
+footer p{
+	background-color:blue;
+	color:white;
+}

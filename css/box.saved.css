@@ -1,0 +1,60 @@
+h1{
+	border:20px #ffb3d1;
+	border-style:groove;
+	background-color:#ff1a74;
+	margin:15px;
+	padding:50px;
+	color:yellow;
+	width:90px;
+	font-size:35px;
+}
+nav{
+	border:60px #e6005b;
+	border-style: groove;
+	background-color:#ffcce0;
+	margin:3px;
+	padding:100px;
+	width:700px;
+	height:700px;
+	color: white;
+}
+h2{
+	border:10px #66ff66;
+	border-style:double;
+	background-color:#cc0066;
+	margin:30px;
+	padding:100px;
+	width:700px;
+	height:17px;
+	color: #ffffb3;
+}
+p{
+	border:11px #9966ff;
+	border-style:dashed;
+	background-color:#ff00ff;
+	margin:11px;
+	padding:13px;
+	width:650px;
+	height:555px;
+	color: white;
+}
+ul{
+	border:23px #ff66a3;
+	border-style:inset;
+	background-color:#ff0000;
+	margin:1px;
+	padding:113px;
+	
+	color: white;
+}
+ul li ul{
+	border:60px #66ffff;
+	border-style: groove;
+	background-image:url("http://i.imgur.com/2Y4oZtj.gif");
+	margin:3px;
+	padding:100px;
+	width:500px;
+	height:20px;
+	color: white;
+}
+

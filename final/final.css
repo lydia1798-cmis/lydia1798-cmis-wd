@@ -1,0 +1,41 @@
+*{
+	outline:solid blue 2px;
+}
+h1{
+	font-family: 'Architects Daughter', cursive;
+}
+nav{
+	border:solid black 5px;
+	float:left; 
+	width:190px;
+	font-family:'Indie Flower', cursive;
+}
+h2{
+	
+	text-align:left;
+	font-family: 'Architects Daughter', cursive;
+}
+main{
+	border:solid black 5px;
+	text-align:left;
+	margin-left:201px;
+	font-family: 'Architects Daughter', cursive;
+}
+
+img.left{
+	float:right;
+	height:300px;
+	width: 350px;
+}
+h3{
+	clear:right;
+}
+main > ul{ 
+	border-style: solid;
+	padding: 20px;
+	margin:20px;
+	overflow:auto;
+}
+h4 + p{
+	
+}

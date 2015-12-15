@@ -11,11 +11,16 @@ nav{
 	width:300px;
 	margin:auto;
 }
-nav ul{
-
+ul{
+	color:black;
+	border:white 8px inset;
+	background-image:url("http://www.color-hex.com/palettes/1836.png");
 }
 main{
-	
+	background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Color_icon_purple.svg/2000px-Color_icon_purple.svg.png");
+}
+main p{
+	background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Color_icon_purple.svg/2000px-Color_icon_purple.svg.png");
 }
 h2{
 	color:white;
@@ -24,15 +29,24 @@ h2{
 	border:#00ffff ridge 7px;
 }
 p{
-	
+	background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Color_icon_yellow.svg/2000px-Color_icon_yellow.svg.png");
 }
 table{
 	border:double #00ffee 10px;
 	margin:auto;
 }
-table thead{
-	background-color:
+table + thead{
+	border:double #00ffee 10px;
+	margin:auto;
+}
+table ~ tbody{
+	border:double #00ffee 10px;
+	margin:auto;
+}
+table > tfoot{
+	border:double #00ffee 10px;
+	margin:auto;
+}
 footer{
 	background-image:url("http://previews.123rf.com/images/ecphoteaux/ecphoteaux1304/ecphoteaux130400028/18985675-stylish-dark-pink-swirl-texture-or-background-with-lovely-floral-and-vine-curls-and-patterns-Stock-Photo.jpg")
-	
 }

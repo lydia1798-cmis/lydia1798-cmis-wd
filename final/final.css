@@ -1,27 +1,30 @@
-*{
-	outline:solid blue 2px;
+html{
+	background-color:#00EDD3;
 }
 h1{
-	font-family: 'Architects Daughter', cursive;
+	font-family:'Orbitron', sans-serif;
+	font-size:70px;
+	text-align:center;
 }
 nav{
-	border:solid black 5px;
+	background-color:#FFF700;
+	border:double black 10px;
 	float:left; 
 	width:190px;
-	font-family:'Indie Flower', cursive;
+	font-family:'Architects Daughter', cursive;
 }
 h2{
-	
-	text-align:left;
+	font-size:30px;
+	text-align:center;
 	font-family: 'Architects Daughter', cursive;
 }
 main{
-	border:solid black 5px;
+	background-color:#B856EE;
+	border:double black 10px;
 	text-align:left;
-	margin-left:201px;
-	font-family: 'Architects Daughter', cursive;
+	margin-left:215px;
+	font-family:'Indie Flower', cursive;
 }
-
 img.left{
 	float:right;
 	height:300px;
@@ -29,13 +32,32 @@ img.left{
 }
 h3{
 	clear:right;
+	font-size:35px;
+	text-align:center;
 }
 main > ul{ 
 	border-style: solid;
 	padding: 20px;
 	margin:20px;
 	overflow:auto;
+	background-color:#FF9C53;
 }
-h4 + p{
-	
+h4{
+	clear:right;
+	margin-left:auto;
+	font-size:25px;
+}
+p{
+	font-size:20px;
+}
+footer{
+	text-align:center;
+}
+article{
+	border-style: solid;
+	padding: 20px;
+	margin:20px;
+	overflow:auto;
+	background-color:#FF9C53;
+
 }
